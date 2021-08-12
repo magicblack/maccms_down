@@ -13,31 +13,41 @@ Apple CMS compression package package download! Easy to use for beginners! The l
 全部打包
 
 https://github.com/magicblack/maccms_down/archive/master.zip
+https://hub.fastgit.org/magicblack/maccms_down/archive/refs/heads/master.zip
 
 第三方CDN加速下载
 
+https://hub.fastgit.org/magicblack/maccms_down
 https://cdn.jsdelivr.net/gh/magicblack/maccms_down/
+
 
 内容管理系统v10完整包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms10.zip
 
 内容管理系统v10更新包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10_update.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms10_update.zip
 
 内容管理系统v8完整包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms8.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms8.zip
 
 内容管理系统v8更新包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms8_update.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms8_update.zip
 
 万能镜像系统v1完整包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms_wnjx1.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms_wnjx1.zip
+
 
 万能镜像系统v1更新包
 
 https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms_wnjx1_update.zip
+https://hub.fastgit.org/magicblack/maccms_down/raw/master/maccms_wnjx1_update.zip
